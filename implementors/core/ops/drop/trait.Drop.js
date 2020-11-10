@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["libxml"] = [{"text":"impl Drop for StructuredError","synthetic":false,"types":[]},{"text":"impl Drop for Object","synthetic":false,"types":[]},{"text":"impl Drop for SchemaParserContext","synthetic":false,"types":[]},{"text":"impl Drop for SchemaValidationContext","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
